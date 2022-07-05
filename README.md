@@ -1,3 +1,2 @@
 # e-commerce
-full statck app MERN
-Include API, ADMIN, CLIENT using react\redux\mogodb\nodejs
+API project include express and mongoose for backend
